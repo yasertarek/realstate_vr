@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="2048" viewBox="0 0 2048 2048">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #38e96e;
+        fill-opacity: 0.3;
+        stroke: #38e96e;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 18px;
+        font-family: Forte;
+      }
+
+      .cls-5 {
+        font-size: 14px;
+        font-family: "Simplified Arabic Fixed";
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M742,1198l-1,18-12,9-10-6,4-15,5-17S732.59,1184.11,742,1198Z"/>
+  <path class="cls-2" d="M722,1207l-38-15"/>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-3" x="591" y="1151" width="97" height="53" rx="25" ry="25"/>
+  <text id="Compound" class="cls-4" x="598.082" y="1177.962">Compound</text>
+  <text id="Name" class="cls-5" x="623.081" y="1192.962">Name</text>
+</svg>
